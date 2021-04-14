@@ -1,0 +1,43 @@
+Output from NeEstimator v2.1
+Starting time: Mon Apr 12 15:31:56 2021
+
+Mating Model: Random
+
+Lowest allele frequencies used, ordered in each population:
+    0.1000    0.0500    0.0200    0.0000
+Input Names are shown up to 17 righmost characters.
+Up to 17 righmost characters can be shown for population names.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input File Number   #Loci  Population #   Samp  Crit.  Weighted      #Indep.    r^2     Exp(r^2)       Ne^                 CIs for Ne^
+then :Name                 then :Name     Size  Value  H. Mean       Alleles            Sample                    Parametric       Jackknife Samp  (Eff.df)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+1:owl_genpop2.txt    4817
+-------------------------
+                           1:_92_gg_001     8  0.1000      6.1     3852275  0.212460  0.241374      -12.1  Infinite  Infinite      34.6  Infinite       317
+                                               0.0500      6.3     5756906  0.217338  0.237284      -17.0  Infinite  Infinite      15.0  Infinite       318
+                                               0.0200      6.3     5756906  0.217338  0.237284      -17.0  Infinite  Infinite      15.0  Infinite       318
+                                               0.0000      6.3     5756906  0.217338  0.237284      -17.0  Infinite  Infinite      15.0  Infinite       318
+                           2:_92_gg_004    11  0.1000     10.0     4376936  0.118479  0.132895      -22.9  Infinite  Infinite  Infinite  Infinite      5136
+                                               0.0500     10.0     6280022  0.120531  0.132786      -26.7  Infinite  Infinite  Infinite  Infinite      3948
+                                               0.0200     10.1     7755569  0.119914  0.131357      -28.5  Infinite  Infinite  Infinite  Infinite      4997
+                                               0.0000     10.1     7755569  0.119914  0.131357      -28.5  Infinite  Infinite  Infinite  Infinite      4997
+                           3:_94_gg_014     9  0.1000      7.2     4464420  0.186350  0.198588      -26.8  Infinite  Infinite      22.0  Infinite       511
+                                               0.0500      7.2     6528967  0.186566  0.197911      -28.7  Infinite  Infinite      21.4  Infinite       532
+                                               0.0200      7.2     6528967  0.186566  0.197911      -28.7  Infinite  Infinite      21.4  Infinite       532
+                                               0.0000      7.2     6528967  0.186566  0.197911      -28.7  Infinite  Infinite      21.4  Infinite       532
+                           4:_05_gg_002    22  0.1000     17.1     4260934  0.066038  0.067970     -161.1  Infinite  Infinite      52.3  Infinite       678
+                                               0.0500     17.2     5426969  0.066056  0.067748     -183.7  Infinite  Infinite      49.3  Infinite       663
+                                               0.0200     17.3     6992136  0.065653  0.067138     -209.1  Infinite  Infinite      50.4  Infinite       713
+                                               0.0000     17.3     6992136  0.065653  0.067138     -209.1  Infinite  Infinite      50.4  Infinite       713
+                           5:_13_gg_005    73  0.1000     45.4     4415493  0.025506  0.022555      110.9     109.6     112.2      67.9     250.7      1699
+                                               0.0500     45.5     7146342  0.025690  0.022554      104.2     103.3     105.1      64.0     231.7      1563
+                                               0.0200     45.5     8550361  0.025587  0.022517      106.5     105.6     107.3      64.9     243.1      1549
+                                               0.0000     45.6     9637220  0.025344  0.022492      114.8     113.8     115.7      69.0     276.5      1626
+
+-------------------------------------
+Total number of populations =       5
+-------------------------------------
+
+Ending time: Mon Apr 12 15:48:40 2021
+-------------------------------------
+
